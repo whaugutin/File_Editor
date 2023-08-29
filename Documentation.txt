@@ -1,0 +1,12 @@
+"file_editor" se pwogram nan (main project) epi "file_functions" se fonksyon ki fè travay.
+Avèk pwogram sa w ap kapab li yon fichye tèks, Modifye kèk pati ladan tankou:
+	
+1- Ajoute tèks nan kòmansman tèks la
+
+	2- Ajoute tèks aprè yon mo tèks la. (Ki poko fin byen mache paske si mo sa repete plizyè fwa se mo ki vini avan an l ap konsidere)
+
+	3- Retire espas vid ki initil nan kòmansman ak fen tèks la
+	   Retire yon karaktè espesifik nan tout tèks la
+
+	4- Anrejistre tèks la nan plas premye fichye osnon fè yon kopi
+	
